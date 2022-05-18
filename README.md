@@ -1,3 +1,6 @@
+<div align="center">
+  
+  
 #  👋欢迎小宝贝👋
 
 
@@ -19,3 +22,6 @@ Here are some ideas to get you started:
 
 ### [打赏 / Donate](https://ozingi.github.io/img/payment/Alipay.jpg)
 <img alt="图片笑死了" style="width:40% " src="https://ozingi.github.io/img/payment/Alipay.jpg"/>
+  
+  
+</div>
