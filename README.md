@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=ozingi&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
-### 还没想好写啥，先挂个打赏方式等人请我喝白开水吧🥰
+### 还没想好写啥，先挂个打赏方式等人请我喝果汁吧🥰
 
 ### [打赏 / Donate](https://ozingi.github.io/img/payment/Alipay.jpg)
 <img alt="图片笑死了" style="width:40% " src="https://ozingi.github.io/img/payment/Alipay.jpg"/>
